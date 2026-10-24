@@ -1,0 +1,40 @@
+OnHandDrudge — OnHand 家族闭源发行许可
+Copyright (c) 2026 OnHand Core
+
+1. 适用范围
+本许可适用于随本次 OnHandDrudge 新发行成品提供的 OnHand 第一方程序、字节码、公开 launcher、合同、文档及原创发行材料。除本许可明确授予的权利外，保留所有权利。本许可不追溯替换旧版本或历史副本的许可；第三方独立许可及真实存在的既有合法授权不受本许可影响。
+
+2. 使用与完整转发
+允许安装、运行官方成品，并允许自由转发官方完整、未经修改的发行成品。转发时须保留原有文件、版权声明和许可，不得把修改或重新包装的版本作为官方成品传播。
+
+3. 未授予的权利
+本许可不授予修改、改编或重新包装本许可所覆盖材料的权利，也不授予公开发布或分发修改版、改编版或重新包装版的权利；不授予第一方源码的公开发布权，也不要求 OnHand 公开源码。必要 launcher 随包可读不额外授予上述权利。不授予品牌或商标使用许可。
+
+4. 既有授权与第三方材料
+如特定材料确有已合法授出的 MIT 或其他授权，相关权利按原授权继续有效，本许可不撤销或限制这些权利。第三方材料按其各自许可处理，适用的版权、许可和通知要求须予保留。法律规定不能排除的权利不受影响。
+
+5. 免责声明
+在适用法律允许的最大范围内，成品按现状提供，不提供任何明示或默示保证；OnHand Core 不承担因使用本成品产生的损失或责任。
+
+语言说明：中文为适用许可正文；以下英文仅为便利性翻译。如有不一致，以中文为准；英文翻译不额外授予权利。
+
+OnHandDrudge — OnHand Family Closed-Source Distribution License
+English translation for convenience
+Copyright (c) 2026 OnHand Core
+
+Language: The Chinese text above is the governing license. This English text is a translation for convenience. If the two texts differ, the Chinese text prevails. This translation grants no additional rights.
+
+1. Scope
+This license applies to the OnHand first-party programs, bytecode, public launchers, contracts, documentation, and original distribution materials supplied with this new OnHandDrudge distribution. All rights not expressly granted are reserved. This license does not retroactively replace the licenses of older versions or historical copies. Independent third-party licenses and genuinely existing lawful grants are unaffected.
+
+2. Use and redistribution of complete distributions
+Installation and operation of official finished products are permitted. Complete, unmodified official distributions may be freely redistributed. Redistribution must retain the original files, copyright notices, and license. Modified or repackaged versions must not be circulated as official finished products.
+
+3. Rights not granted
+This license grants no rights to modify, adapt, or repackage the materials it covers, or to publicly publish or distribute modified, adapted, or repackaged versions. It grants no right to publicly release first-party source code and does not require OnHand to publish source code. Supplying a required launcher in readable form grants none of these additional rights. No brand or trademark license is granted.
+
+4. Existing grants and third-party materials
+If particular material has genuinely been lawfully licensed under MIT or another license, those rights remain valid under that original grant; this license does not revoke or restrict them. Third-party materials are subject to their respective licenses, and applicable copyright, license, and notice requirements must be preserved. Rights that cannot legally be excluded are unaffected.
+
+5. Disclaimer
+To the maximum extent permitted by applicable law, the finished product is provided as is, without express or implied warranties. OnHand Core is not liable for loss or liability arising from use of the product.
